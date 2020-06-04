@@ -2,7 +2,18 @@
 - [x] ساخت فایل وظایف
 
 # منصوره
-- [ ] پترن 1
+- [x] state
+- [x] observe
+- [x] Iterator
+- [x] Singleton
+- [x] Flyweight
+- [x] Memento
+- [x] Chain of Responsibility -> cancell
+- [x] Template Method
+- [x] Mediator 
+- [x] Decorator
+- [x] Proxy
+- [x] Composite
 
 # امیر
 - [x] Strategy
