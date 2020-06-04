@@ -19,7 +19,15 @@
 - [x] Strategy
 
 # فاطمه
-- [ ] پترن 1
+- [x] prototype
+- [x] NullObject
+- [x] Facade
+- [x] Builder
+- [x] Bridge
+- [x] Command
+- [x] Visitor
+- [x] Abstract Factory
+- [x] Factory Method
 
 # محسن
 - [ ] پترن 1
