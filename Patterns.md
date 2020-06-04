@@ -8,7 +8,7 @@
 - [x] Singleton
 - [x] Flyweight
 - [x] Memento
-- [x] Chain of Responsibility -> cancell
+- [x] Chain of Responsibility -> cancel
 - [x] Template Method
 - [x] Mediator 
 - [x] Decorator
