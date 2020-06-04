@@ -1,7 +1,7 @@
 # مهراد
 - [x] ساخت فایل وظایف
 
-# منصوره
+# منصوره و فاطمه
 - [x] state
 - [x] observe
 - [x] Iterator
@@ -14,11 +14,6 @@
 - [x] Decorator
 - [x] Proxy
 - [x] Composite
-
-# امیر
-- [x] Strategy
-
-# فاطمه
 - [x] prototype
 - [x] NullObject
 - [x] Facade
@@ -28,6 +23,9 @@
 - [x] Visitor
 - [x] Abstract Factory
 - [x] Factory Method
+
+# امیر
+- [x] Strategy
 
 # محسن
 - [ ] پترن 1
